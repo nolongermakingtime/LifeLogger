@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346530094279",
+    "project_id": "lifexlogger",
+    "storage_bucket": "lifexlogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346530094279:android:ec7e2ea696be306c9cb2e2",
+        "android_client_info": {
+          "package_name": "com.alternativerealitystudio.lifexlogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346530094279-hpbg7iv1qkfi59obis47bl54cdvf3iuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alternativerealitystudio.lifexlogger",
+            "certificate_hash": "1d7f8cc2cf77a8a79b2ccdf8eeee6077a9bf4311"
+          }
+        },
+        {
+          "client_id": "346530094279-a41to502njakgj178bpvcjljtp2nrvrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0CEGnTKw6lzFlge95-cuaSl5Qs8R5h8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346530094279-a41to502njakgj178bpvcjljtp2nrvrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
